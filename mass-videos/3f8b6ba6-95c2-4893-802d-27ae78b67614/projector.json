@@ -1,0 +1,11 @@
+{
+    "name": "CineBlox Intro",
+    "details": "Season 1, Episode 1",
+    "next": null,
+    "prev": null,
+    
+    "ageRating": {
+        "age": "1+",
+        "details": "Swearing, violence, gore, all the above."
+    }
+}
