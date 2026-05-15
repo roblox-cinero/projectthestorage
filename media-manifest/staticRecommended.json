@@ -1,0 +1,11 @@
+{
+    "staticEntries": {
+        "homeHero": {
+            "text": "Now Streaming",
+            "links": [
+                {"text": "See more", "link": "/browse/entry/cd39076a-5d58-459d-b78e-6a9bf8117556/"}
+            ],
+            "entry": "cd39076a-5d58-459d-b78e-6a9bf8117556"
+        }
+    }
+}
