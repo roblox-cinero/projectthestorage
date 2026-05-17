@@ -3,3 +3,6 @@ ffmpeg
 *.mp4
 *.mov
 .DS_Store
+raw
+
+tooling
