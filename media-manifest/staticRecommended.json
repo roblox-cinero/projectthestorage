@@ -7,5 +7,15 @@
             ],
             "entry": "cd39076a-5d58-459d-b78e-6a9bf8117556"
         }
+    },
+    "dynamicEntries": {
+        "trending": {
+            "orderClause": "ORDER BY views DESC",
+            "limitClause": "LIMIT 10"
+        },
+        "mostLiked": {
+            "orderClause": "ORDER BY likes DESC",
+            "limitClause": "LIMIT 20"
+        }
     }
 }
